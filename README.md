@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaizen3582
 - 👀 I’m interested in IT Operations, Incident Response, and Digital Forensics.
-- 🌱 I’m currently learning Python.
+- 🌱 I am working on becoming a full stack developer.
 - 💞️ I’m looking to collaborate on entry-level projects that involve IT support, scripting, or basic cybersecurity tasks.
 - 📫 Connect with me on LinkedIn: www.linkedin.com/in/cdcachero
 - ⚡ Fun fact: I’m also into cooking, acrylic painting, and anime!
